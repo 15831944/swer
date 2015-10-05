@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classcanon_line.html#aef4afba5e1dccf8c6867d2be370afad5" title="canonLine::canonLineFactory" alt="" coords="216,5,408,35"/>
+<area shape="rect" id="node5" href="$classcanon_line.html#a771e9a1769948907ffdab9cd0e91183f" title="canonLine::checkErrors" alt="" coords="233,58,391,89"/>
+<area shape="rect" id="node7" href="$classnanotimer.html#a6fe6b7515227dd2dbb5cd7c889174b1f" title="nanotimer::getElapsedS" alt="" coords="232,111,392,142"/>
+<area shape="rect" id="node9" href="$classcanon_line.html#aee5797d1e94aa4e525ba980f4c49ef6c" title="returns the canon line number" alt="" coords="233,165,391,195"/>
+<area shape="rect" id="node13" href="$classcanon_line.html#a046a01d50bc61abe11244421b75b136d" title="returns the number after N on the line, &#45;1 if none" alt="" coords="255,218,369,249"/>
+<area shape="rect" id="node18" href="$classnanotimer.html#af9a156b8247ec1b6cd7759f8e0c16a47" title="nanotimer::humanreadable" alt="" coords="225,271,399,302"/>
+<area shape="rect" id="node22" href="$classnanotimer.html#a61d1a6e32c72bbe4b28153ac99a57ebd" title="nanotimer::start" alt="" coords="256,325,368,355"/>
+<area shape="rect" id="node11" href="$classcanon_line.html#ab3ce27fbfb556d782b9395db05c7100f" title="canonLine::tok2i" alt="" coords="461,165,579,195"/>
+<area shape="rect" id="node15" href="$classcanon_line.html#a6e60f0bae5c58fd804052cbb134e4dd2" title="canonLine::cantok" alt="" coords="456,218,584,249"/>
+<area shape="rect" id="node20" href="$classuio.html#a039335b2ce987c4e2a36b073ccd1e9a1" title="uio::toString" alt="" coords="475,271,565,302"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmachine_status.html#a1c2a32eed790f05523655ff22a882f44" title="machineStatus::getEndPose" alt="" coords="235,5,421,35"/>
+<area shape="rect" id="node5" href="$classcanon_line.html#ad32f1efae6a717e3eab4f07085b290c1" title="return a line identifier as string: getN() if !=&#45;1, else getLineNum()" alt="" coords="259,58,397,89"/>
+<area shape="rect" id="node14" href="$classlinear_motion.html#a91fb6901f77402d43bf8c790fe40ddbb" title="linearMotion::getMotionType" alt="" coords="235,111,421,142"/>
+<area shape="rect" id="node18" href="$classcanon_motion.html#a5b09857ac168a4fcc72ff2ecef197d5a" title="for STRAIGHT_* and ARC_FEED, first 3 are always xyz and last 3 always abc" alt="" coords="225,165,431,195"/>
+<area shape="rect" id="node22" href="$classmachine_status.html#a881d395803b3e583768c53d7c9d09042" title="machineStatus::getStartPose" alt="" coords="232,218,424,249"/>
+<area shape="rect" id="node24" href="$classmachine_status.html#a7bbe860c892c3b79cf1a5aa785254380" title="machineStatus::setEndDir" alt="" coords="241,271,415,302"/>
+<area shape="rect" id="node26" href="$classmachine_status.html#ab2accbe6ec632649dbc0f2de94e1b2c6" title="machineStatus::setEndPose" alt="" coords="235,325,421,355"/>
+<area shape="rect" id="node36" href="$classmachine_status.html#a08a561f3b0cd61a73e9b9df49df3b9c1" title="sets motion type, and checks whether this is the second (or later) motion command." alt="" coords="480,378,683,409"/>
+<area shape="rect" id="node39" href="$classmachine_status.html#a31892a950ede109735bba32a3f442314" title="machineStatus::setStartDir" alt="" coords="239,429,417,459"/>
+<area shape="rect" id="node7" href="$classcanon_line.html#a6e60f0bae5c58fd804052cbb134e4dd2" title="canonLine::cantok" alt="" coords="731,6,859,37"/>
+<area shape="rect" id="node9" href="$classcanon_line.html#a046a01d50bc61abe11244421b75b136d" title="returns the number after N on the line, &#45;1 if none" alt="" coords="524,58,639,89"/>
+<area shape="rect" id="node12" href="$classcanon_line.html#ab3ce27fbfb556d782b9395db05c7100f" title="canonLine::tok2i" alt="" coords="736,59,853,90"/>
+<area shape="rect" id="node16" href="$classcanon_line.html#a53ca9b6556a28f2ebe7b50a721544c2d" title="return true if the canonical command for this line matches &#39;m&#39;" alt="" coords="507,111,656,142"/>
+<area shape="rect" id="node20" href="$classcanon_line.html#a7377f0fcdfcbc3d9252267276563bee2" title="canonLine::tok2d" alt="" coords="521,165,641,195"/>
+<area shape="rect" id="node28" href="$classmachine_status.html#a4fd74d471b8ebdb97e2b1ae7ea32f779" title="machineStatus::addToBounds" alt="" coords="484,325,679,355"/>
+<area shape="rect" id="node30" href="$classuio.html#a853f8c923995ca39bb729656b0622f34" title="uio::debuggingOn" alt="" coords="733,271,856,302"/>
+<area shape="rect" id="node32" href="$classcanon.html#ab32f15149cca41438a2c22f52b8c5e22" title="canon::infoMsg" alt="" coords="740,378,849,409"/>
+<area shape="rect" id="node34" href="$classuio.html#a039335b2ce987c4e2a36b073ccd1e9a1" title="uio::toString" alt="" coords="749,325,840,355"/>
+</map>

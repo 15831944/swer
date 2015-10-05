@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classcanon.html" title="Class canon was created so canonLine and machineStatus could easily share some things. The only shared items are the unimplemented function abc2dir, and the types degrees and toolNumber. At this time, the list of tools will be handled within the machineStatus class." alt="" coords="5,6,61,37"/>
+<area shape="rect" id="node4" href="$structcoolant_struct.html" title="coolantStruct" alt="" coords="85,6,184,37"/>
+</map>

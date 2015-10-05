@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmachine_status.html#a30fcc9315834685d0d00f9dabfd52b18" title="if not first, add an arc or helix to feedBbox. STRAIGHT_* is added in setEndPose()" alt="" coords="485,17,688,48"/>
+<area shape="rect" id="node7" href="$classmachine_status.html#a1c2a32eed790f05523655ff22a882f44" title="machineStatus::getEndPose" alt="" coords="244,56,431,87"/>
+<area shape="rect" id="node9" href="$classcanon_line.html#a046a01d50bc61abe11244421b75b136d" title="returns the number after N on the line, &#45;1 if none" alt="" coords="280,109,395,140"/>
+<area shape="rect" id="node15" href="$classmachine_status.html#a134831df227887d28dffa0c3346060a6" title="machineStatus::getPlane" alt="" coords="253,163,421,193"/>
+<area shape="rect" id="node17" href="$classmachine_status.html#a7fc0c75270e1fa4a9749f0b6060e34f2" title="machineStatus::getPrevEndDir" alt="" coords="237,216,437,247"/>
+<area shape="rect" id="node19" href="$classmachine_status.html#a881d395803b3e583768c53d7c9d09042" title="machineStatus::getStartPose" alt="" coords="241,269,433,300"/>
+<area shape="rect" id="node21" href="$classmachine_status.html#a7bbe860c892c3b79cf1a5aa785254380" title="machineStatus::setEndDir" alt="" coords="251,323,424,353"/>
+<area shape="rect" id="node23" href="$classmachine_status.html#ab2accbe6ec632649dbc0f2de94e1b2c6" title="machineStatus::setEndPose" alt="" coords="244,427,431,457"/>
+<area shape="rect" id="node32" href="$classmachine_status.html#a08a561f3b0cd61a73e9b9df49df3b9c1" title="sets motion type, and checks whether this is the second (or later) motion command." alt="" coords="485,373,688,404"/>
+<area shape="rect" id="node35" href="$classmachine_status.html#a31892a950ede109735bba32a3f442314" title="machineStatus::setStartDir" alt="" coords="248,480,427,511"/>
+<area shape="rect" id="node37" href="$classcanon_line.html#a7377f0fcdfcbc3d9252267276563bee2" title="canonLine::tok2d" alt="" coords="277,533,397,564"/>
+<area shape="rect" id="node5" href="$classcanon.html#ab32f15149cca41438a2c22f52b8c5e22" title="canon::infoMsg" alt="" coords="743,373,852,404"/>
+<area shape="rect" id="node11" href="$classcanon_line.html#a6e60f0bae5c58fd804052cbb134e4dd2" title="canonLine::cantok" alt="" coords="523,96,651,127"/>
+<area shape="rect" id="node13" href="$classcanon_line.html#ab3ce27fbfb556d782b9395db05c7100f" title="canonLine::tok2i" alt="" coords="528,149,645,180"/>
+<area shape="rect" id="node25" href="$classmachine_status.html#a4fd74d471b8ebdb97e2b1ae7ea32f779" title="machineStatus::addToBounds" alt="" coords="489,427,684,457"/>
+<area shape="rect" id="node27" href="$classuio.html#a853f8c923995ca39bb729656b0622f34" title="uio::debuggingOn" alt="" coords="736,427,859,457"/>
+<area shape="rect" id="node30" href="$classuio.html#a039335b2ce987c4e2a36b073ccd1e9a1" title="uio::toString" alt="" coords="752,480,843,511"/>
+</map>
